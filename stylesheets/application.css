@@ -709,6 +709,10 @@ table.list th,
   background-color: #d1edbc;
 }
 
+table.list .badge-count {
+  background-color: #9db9d5;
+}
+
 #content>div.splitcontent {
   font-size: 16px;
 }
